@@ -16,7 +16,7 @@ http://www.nature.com/nature/journal/v500/n7461/full/nature12346.html
 by Moritz Helmstaedter, Kevin L. Briggman,,Srinivas C. Turaga, Viren
 Jain, H. Sebastian Seung and Winfried Denk (08 August 2013)
 
-The processing steps originated from Eric Jonas (circuitdata/mouseretina) on Github.
+The processing steps originated from Eric Jonas (circuitdata/mouseretina) on Github : https://github.com/ericmjonas/circuitdata/tree/master/mouseretina
 
 The repository contains 3 IPYNB files:
 
