@@ -10,7 +10,9 @@ The python Jupyter notebook contains the analysis of the Retinal connectome that
 
 [Connectomic reconstruction of the inner plexiform layer in the mouse
 retina]
+
 http://www.nature.com/nature/journal/v500/n7461/full/nature12346.html
+
 by Moritz Helmstaedter, Kevin L. Briggman,,Srinivas C. Turaga, Viren
 Jain, H. Sebastian Seung and Winfried Denk (08 August 2013)
 
